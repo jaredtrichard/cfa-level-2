@@ -1,10 +1,10 @@
-# Lesson template — provisional, not a taught lesson
+# Lesson authoring notes
 
-Use for one manageable target; do not fill out the whole curriculum at once.
+Copy [TEMPLATE.html](TEMPLATE.html) to `<topic>/<outcome-id>.html`, then replace the illustrative content and source notes. Each official checkbox is one HTML module. Cover it comprehensively, including all verbs and subparts. Do not fill out the whole curriculum at once. The HTML is the presentation template; this file is the content checklist. Keep explanations visible and static, with embedded CSS and no scripts or remote assets.
 
 ## Target and coverage
 
-Outcome ID(s), official page/bullet, source coverage (unverified/partial/checked), and the exact portion taught. Mark gaps explicitly. Identify a useful prerequisite refresher without locking access.
+One primary outcome ID, official parent heading and page/bullet, and source coverage (unverified/partial/checked). Decompose compound outcomes into internal sections so no required action or subpart is lost. Mark gaps explicitly; a draft with missing required coverage is not a completed module. Identify a useful prerequisite refresher without locking access.
 
 ## Explanation
 

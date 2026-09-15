@@ -67,7 +67,7 @@ The valuation page's first example lists inputs that imply first-year earnings o
 
 ## Before a lesson or assessment is used
 
-- Trace the actual taught/tested portion to current outcome IDs. Mark substantive coverage unverified, partial, or checked separately from learning state.
+- Each HTML module has one primary checkbox/outcome ID. Check every action and subpart, including required assumptions, exceptions, calculations, and interpretation. Partial coverage is a draft, not a completed module. Trace practice to its actual tested portion. Mark substantive coverage unverified, partial, or checked separately from learning state.
 - Check assumptions, exceptions, timing, units, edition, and relevant errata. An unchanged heading or outcome is insufficient.
 - Independently calculate numerical solutions with a calculator or simple local computation; record the check. Resolve discrepancies before grading affected work.
 - Write original question variants and case narratives. Cite conceptual sources and edition/section; avoid copying proprietary problems or full textbook text.

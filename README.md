@@ -1,6 +1,6 @@
 # CFA Level II study
 
-An evolving, source-mapped study resource for the 2027 CFA Level II curriculum. Use Markdown and a conversation with your preferred assistant to understand concepts, work calculations, and apply them to original cases. Study at your own pace.
+An evolving, source-mapped study resource for the 2027 CFA Level II curriculum. Use static HTML lessons and a conversation with your preferred assistant to understand concepts, work calculations, and apply them to original cases. Study at your own pace.
 
 ## Start studying
 
@@ -8,7 +8,23 @@ An evolving, source-mapped study resource for the 2027 CFA Level II curriculum. 
 2. Ask it to read [AGENTS.md](AGENTS.md), then say “start” or choose a topic. The first session creates ignored personal files from the blank starting files; no dependencies are required.
 3. Continue with “resume.” Your assistant reads your local checkpoint and preserves attempts before grading them.
 
-[Curriculum tracker](TRACKER.md) · [Sources and quality](sources/QUALITY.md) · [Outcome crosswalk](sources/CROSSWALK.md) · [Lesson template](modules/TEMPLATE.md) · [Log template](log/TEMPLATE.md)
+[Curriculum tracker](TRACKER.md) · [Sources and quality](sources/QUALITY.md) · [Outcome crosswalk](sources/CROSSWALK.md) · [Lesson template](modules/TEMPLATE.html) · [Log template](log/TEMPLATE.md)
+
+Open `modules/TEMPLATE.html` in any browser to see the base lesson layout. Each module is a self-contained HTML file with embedded styling: no scripts, external assets, build tools, or installation. Personal records remain in Markdown.
+
+## Curriculum spine
+
+Each checkbox in the official outline becomes one comprehensive HTML study module. Official topics and learning-module headings organize the pages:
+
+**Official topic → official learning-module group → checkbox → HTML study module.**
+
+**Planned HTML modules:** 382
+
+**Official learning-module groups:** 51
+
+A page covers all actions and subparts required by its checkbox, with explanation, relevant methods and assumptions, worked examples, and interpretation. Length follows the outcome's needs. Pages are created incrementally; these counts describe the syllabus, not completed content.
+
+Files use `modules/<topic>/<outcome-id>.html`, tied to the existing tracker IDs. Public content coverage and private learner mastery remain separate.
 
 ## What is available
 

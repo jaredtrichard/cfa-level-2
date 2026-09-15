@@ -6,6 +6,8 @@ IDs are local, not official CFA numbering: `L2-2027-TOPIC-module-outcome`. Freez
 
 Explain / Calculate / Apply use `unassessed`, `developing`, `demonstrated`, `revisit`, or reasoned `not-applicable`. Calculation applicability is initially unchecked. Source coverage uses `unverified`, `partial`, `checked`. Public coverage changes require shared source/lesson links. Personal learning changes belong only in local-data/TRACKER.md with private attempt links; this public starting tracker stays unassessed. See [study workflow](.agents/skills/cfa-study/SKILL.md) and [source standard](sources/QUALITY.md).
 
+Each outcome row is the primary scope for one HTML study module at `modules/<topic>/<outcome-id>.html`. The official headings below group those modules. A page is content-complete only when all parts of its checkbox have checked coverage; learner states remain independent. No completed HTML study module is currently recorded.
+
 ## Quantitative Methods
 
 ### L2-2027-QM-01 — Basics of Multiple Regression and Underlying Assumptions

@@ -1,6 +1,6 @@
 ---
 name: cfa-study
-description: Run personal CFA Level II open-response study, resume unfinished work, grade evidence, and improve the current lesson within this Markdown project.
+description: Run personal CFA Level II open-response study, resume unfinished work, grade evidence, and improve the current lesson within this static-HTML and Markdown project.
 ---
 
 # Study and improve in place
@@ -11,7 +11,9 @@ Read `local-data/RESUME.md` and `local-data/MEMORY.md`. Use `local-data/TRACKER.
 
 ## Teach
 
-Select a current outcome with the learner. Check its exact wording in the official PDF using the tracker page and module-relative bullet ordinal. Verify substantive coverage before teaching it; an outline alone is not an answer key. Use ../../../modules/TEMPLATE.md as a provisional shape, adapting it to feedback. Author just the needed lesson in `modules/<topic>/` and original prompts and solutions in separate files under `practice/<topic>/`. Give the learner the prompt without revealing the solution. Use open-response explanation, calculations where relevant, and case interpretation. Keep unseen validation cases separate from teaching examples, and record exposure when shown.
+Select one current checkbox/outcome with the learner. Each checkbox is one comprehensive HTML study module; retain official topic and learning-module headings as grouping levels. Check its exact wording in the official PDF using the tracker page and module-relative bullet ordinal. Verify substantive coverage before teaching it; an outline alone is not an answer key. Copy ../../../modules/TEMPLATE.html for the static lesson layout and consult ../../../modules/TEMPLATE.md for content requirements. Author just the needed lesson as `modules/<topic>/<outcome-id>.html` and original prompts and solutions in separate files under `practice/<topic>/`. Before considering the module complete, check coverage of every required verb and subpart against the official outcome. Include substantial explanation, assumptions, exceptions, worked cases where relevant, and interpretation; vary length with scope. Mark source gaps and keep incomplete pages as drafts. Do not substitute a thin visual example for the whole outcome. Give the learner the prompt without revealing the solution. Use open-response explanation, calculations where relevant, and case interpretation. Keep unseen validation cases separate from teaching examples, and record exposure when shown.
+
+Keep HTML self-contained with embedded CSS, visible explanations, and no JavaScript, forms, sliders, accordions, remote assets, or Lavish. Preview in the in-app browser from a localhost server serving only `modules/`. Never serve learner records.
 
 ## After every submitted answer
 
