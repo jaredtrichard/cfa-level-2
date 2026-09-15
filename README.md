@@ -25,3 +25,7 @@ Your active tracker, checkpoint, memory, and append-only logs live in ignored `l
 Before publishing a change, inspect the staged files for answers, assessments, personal details, and copyrighted source copies. Share general teaching improvements without quoting or linking private attempts.
 
 The official exam uses vignette-based multiple-choice questions. This project uses open-response teachback; it does not claim that verbal work alone proves timed exam readiness. It is an independent study project, not affiliated with or endorsed by CFA Institute. CFA® is a trademark owned by CFA Institute.
+
+## Reuse
+
+Original project material is available under the [MIT license](LICENSE), so you can reuse and adapt it. Linked CFA Institute and provider materials retain their own rights and are not relicensed here.
