@@ -1,0 +1,6 @@
+sources/local/
+data/
+local-data/
+log/*
+!log/TEMPLATE.md
+.DS_Store
