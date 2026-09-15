@@ -1,12 +1,12 @@
 # Curriculum tracker
 
-Working edition: 2027. All learning dimensions are unassessed; all substantive source coverage is unverified. Indexing an outcome is not teaching or assessing it.
+Working edition: 2027. All learning dimensions are unassessed; substantive source coverage is recorded per outcome. Indexing an outcome is not teaching or assessing it.
 
 IDs are local, not official CFA numbering: `L2-2027-TOPIC-module-outcome`. Freeze IDs for this edition; record later remapping explicitly. Each row identifies the exact official outcome by module title, module-relative bullet ordinal (continuing across pages), and one-based PDF page. Read the full linked outcome before teaching; the first verb is only a navigation cue. Official outline wording is available in the linked PDF and the ignored local reference copy, not reproduced as course content here.
 
 Explain / Calculate / Apply use `unassessed`, `developing`, `demonstrated`, `revisit`, or reasoned `not-applicable`. Calculation applicability is initially unchecked. Source coverage uses `unverified`, `partial`, `checked`. Public coverage changes require shared source/lesson links. Personal learning changes belong only in local-data/TRACKER.md with private attempt links; this public starting tracker stays unassessed. See [study workflow](.agents/skills/cfa-study/SKILL.md) and [source standard](sources/QUALITY.md).
 
-Each outcome row is the primary scope for one HTML study module at `modules/<topic>/<outcome-id>.html`. The official headings below group those modules. A page is content-complete only when all parts of its checkbox have checked coverage; learner states remain independent. No completed HTML study module is currently recorded.
+Each outcome row is the primary scope for one HTML study module at `modules/<topic>/<outcome-id>.html`. The official headings below group those modules. A page is content-complete only when all parts of its checkbox have checked coverage; learner states remain independent. The first Quantitative Methods outcome has a source-checked HTML module; remaining rows indicate their own coverage.
 
 ## Quantitative Methods
 
@@ -14,7 +14,7 @@ Each outcome row is the primary scope for one HTML study module at `modules/<top
 
 | Outcome ID | Official bullet / page | Explain | Calculate | Apply | Coverage | Evidence / lesson / source |
 | --- | --- | --- | --- | --- | --- | --- |
-| L2-2027-QM-01-01 | [1 (describe), p. 1](https://www.cfainstitute.org/sites/default/files/docs/programs/cfa-program/2027-cfa_l2_topic_outline.pdf#page=1) | unassessed | unassessed | unassessed | unverified | — |
+| L2-2027-QM-01-01 | [1 (describe), p. 1](https://www.cfainstitute.org/sites/default/files/docs/programs/cfa-program/2027-cfa_l2_topic_outline.pdf#page=1) | unassessed | unassessed | unassessed | checked | [HTML module](modules/quantitative-methods/L2-2027-QM-01-01.html) · [Sources](modules/quantitative-methods/L2-2027-QM-01-01.html#section-8) |
 | L2-2027-QM-01-02 | [2 (formulate), p. 1](https://www.cfainstitute.org/sites/default/files/docs/programs/cfa-program/2027-cfa_l2_topic_outline.pdf#page=1) | unassessed | unassessed | unassessed | unverified | — |
 | L2-2027-QM-01-03 | [3 (explain), p. 1](https://www.cfainstitute.org/sites/default/files/docs/programs/cfa-program/2027-cfa_l2_topic_outline.pdf#page=1) | unassessed | unassessed | unassessed | unverified | — |
 

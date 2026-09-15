@@ -28,6 +28,8 @@ Files use `modules/<topic>/<outcome-id>.html`, tied to the existing tracker IDs.
 
 ## What is available
 
+Start with [Quantitative Methods: investment problems and the regression process](modules/quantitative-methods/L2-2027-QM-01-01.html). It covers the first checkbox and includes a separate [teachback case](practice/quantitative-methods/L2-2027-QM-01-01-prompt.md).
+
 The official syllabus is indexed with outcome IDs and source links. The study workflow, source standards, and templates are ready. Lessons and original open-response practice will be added incrementally as study proceeds. This is not yet a complete course; public teaching-source coverage for every outcome has not been established.
 
 An accessible, lawfully obtained older official textbook can supplement current public references. Record its edition and check its content against the current outcomes and errata. No textbook is included or required merely to initialize the project.
